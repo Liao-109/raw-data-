@@ -1,6 +1,5 @@
 # raw-data-
-Raw data: Sustainable development: An investigation of the factors influencing pedestrian-motor vehicle collisions in relation to the road operating environment
-This repository hosts the raw data and supplementary materials for the research paper "Sustainable development: An investigation of the factors influencing pedestrian-motor vehicle collisions in relation to the road operating environment". The dataset supports quantitative and qualitative analyses of pedestrian-vehicle collision severity, with a focus on road operating environment factors.
+This repository hosts the raw data and supplementary materials for the research paper "Sustainable development: An investigation of the factors influencing pedestrian-motor vehicle collisions in relation to the road operating environment". This dataset originates from the Sichuan Xihua Transportation Forensic Identification Center in China. In China, the head of this institution has exclusive rights to the transportation forensic identification accident dataset.
 # Project Overview
 ## Research Theme
 Exploring the key factors influencing pedestrian injury severity in pedestrian-motor vehicle collisions, with a specific focus on the interaction between road operating environment (e.g., pavement materials, road alignment) and collision outcomes. The study combines a Multinomial Logit (MNL) model for quantitative analysis and SHAP (SHapley Additive exPlanations) for model interpretation to provide insights for sustainable transportation safety.
@@ -45,3 +44,11 @@ SHAP Dependence Plots: 3 plots exploring interactions between road alignment/pav
 # Related notes:
 - As the authors are all from China, some of the code contains Chinese comments. We apologize for any inconvenience this may cause.
 - The submitted raw data has been converted and polished, and may differ slightly from the names used in the authors' training models, but the basic data remains consistent.
+# Software：
+-Project name: Stata/MP 18.0
+•	Project home page: https://www.stata.com/
+•	Archived version: No publicly available DOI or general repository identifier; version identified as "Stata/MP 18.0" by official release
+•	Operating system(s): Compatible with 64-bit Windows, 64-bit macOS (including Apple Silicon chips), 64-bit Linux
+•	Programming language: Core developed primarily in C language, integrated with proprietary scripting language (.do file syntax)
+•	License: Proprietary commercial license (non-open source software)
+•	Any restrictions to use by non-academics: All users (including non-academic) must purchase and obtain an authorized license through Stata's official channels to use the software legally. Usage rights are subject to the terms of the purchased license.
