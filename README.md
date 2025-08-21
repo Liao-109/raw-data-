@@ -18,9 +18,7 @@ The dataset includes 1,320 valid collision records after data cleaning, with 17 
 - Vehicle factors: Vehicle age.
 ## Data Files
 - raw data.xlsx: Raw dataset with all variables and collision records.
-- Supplementary visualization materials (included in the repository)：
- Correlation heatmap of variables.
- SHAP beeswarm plots and dependence plots for feature importance analysis.
+- Supplementary visualization materials (20250328)：Stata/MP 18.0.
 # Key Variables
 - Dependent Variable: Injury Severity	Categorized into 3 levels: Fatal (FI), Emergency/Hospitalization (SI), Minor Injuries (MI).
 - Human Factors： Pedestrian Age, Driving Experience, Speeding	Continuous/discrete variables capturing demographic and behavioral traits.
@@ -37,10 +35,6 @@ The dataset is available in raw data.xlsx for non-commercial research purposes. 
 - Statistical analysis: Stata/MP 18.0 (for MNL model estimation).
 - Visualization: Python (Matplotlib, Seaborn) or MATLAB 2024a.
 - SHAP implementation: Python’s shap library (version ≥ 0.40.0).
-# Supplementary Materials
-- Correlation Heatmap.png: Visualizes pairwise correlations between variables (e.g., strong correlation between pedestrian age and fatal injuries).
-- SHAP Beeswarm Plot.png: Shows global feature importance, highlighting pedestrian age, driving experience, and accident time as top influencers.
-- SHAP Dependence Plots: 3 plots exploring interactions between road alignment/pavement material and injury severity, stratified by injury level.
 # Related notes:
 - As the authors are all from China, some of the code contains Chinese comments. We apologize for any inconvenience this may cause.
 - The submitted raw data has been converted and polished, and may differ slightly from the names used in the authors' training models, but the basic data remains consistent.
