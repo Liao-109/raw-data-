@@ -28,8 +28,8 @@ The dataset includes 1,320 valid collision records after data cleaning, with 17 
 - Temporal Factors: Accident Time	Categorized into day, night, or dusk.
 # Analysis Methods
 The dataset supports the following analytical approaches (as used in the research):
- MNL Model: Quantifies the impact of each factor on injury severity using relative risk ratios (RRR).
- SHAP Analysis: Visualizes feature importance and interactions, particularly for road operating environment factors (e.g., pavement material-road alignment interactions).
+- MNL Model: Quantifies the impact of each factor on injury severity using relative risk ratios (RRR).
+- SHAP Analysis: Visualizes feature importance and interactions, particularly for road operating environment factors (e.g., pavement material-road alignment interactions).
 # Usage Guidelines
 ## Data Access
 The dataset is available in raw data.xlsx for non-commercial research purposes. Users must comply with NAIS data usage regulations and cite the original research when using this data.
@@ -38,9 +38,9 @@ The dataset is available in raw data.xlsx for non-commercial research purposes. 
 - Visualization: Python (Matplotlib, Seaborn) or R (ggplot2) for reproducing correlation heatmaps and SHAP plots.
 - SHAP implementation: Python’s shap library (version ≥ 0.40.0).
 # Supplementary Materials
-Correlation Heatmap.png: Visualizes pairwise correlations between variables (e.g., strong correlation between pedestrian age and fatal injuries).
-SHAP Beeswarm Plot.png: Shows global feature importance, highlighting pedestrian age, driving experience, and accident time as top influencers.
-SHAP Dependence Plots: 3 plots exploring interactions between road alignment/pavement material and injury severity, stratified by injury level.
+- Correlation Heatmap.png: Visualizes pairwise correlations between variables (e.g., strong correlation between pedestrian age and fatal injuries).
+- SHAP Beeswarm Plot.png: Shows global feature importance, highlighting pedestrian age, driving experience, and accident time as top influencers.
+- SHAP Dependence Plots: 3 plots exploring interactions between road alignment/pavement material and injury severity, stratified by injury level.
 # Related notes:
 - As the authors are all from China, some of the code contains Chinese comments. We apologize for any inconvenience this may cause.
 - The submitted raw data has been converted and polished, and may differ slightly from the names used in the authors' training models, but the basic data remains consistent.
