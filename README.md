@@ -45,10 +45,10 @@ SHAP Dependence Plots: 3 plots exploring interactions between road alignment/pav
 - As the authors are all from China, some of the code contains Chinese comments. We apologize for any inconvenience this may cause.
 - The submitted raw data has been converted and polished, and may differ slightly from the names used in the authors' training models, but the basic data remains consistent.
 # Software：
--Project name: Stata/MP 18.0
- Project home page: https://www.stata.com/
- Archived version: No publicly available DOI or general repository identifier; version identified as "Stata/MP 18.0" by official release
- Operating system(s): Compatible with 64-bit Windows, 64-bit macOS (including Apple Silicon chips), 64-bit Linux
- Programming language: Core developed primarily in C language, integrated with proprietary scripting language (.do file syntax)
- License: Proprietary commercial license (non-open source software)
- Any restrictions to use by non-academics: All users (including non-academic) must purchase and obtain an authorized license through Stata's official channels to use the software legally. Usage rights are subject to the terms of the purchased license.
+- Project name: Stata/MP 18.0
+- Project home page: https://www.stata.com/
+- Archived version: No publicly available DOI or general repository identifier; version identified as "Stata/MP 18.0" by official release
+- Operating system(s): Compatible with 64-bit Windows, 64-bit macOS (including Apple Silicon chips), 64-bit Linux
+- Programming language: Core developed primarily in C language, integrated with proprietary scripting language (.do file syntax)
+- License: Proprietary commercial license (non-open source software)
+- Any restrictions to use by non-academics: All users (including non-academic) must purchase and obtain an authorized license through Stata's official channels to use the software legally. Usage rights are subject to the terms of the purchased license.
