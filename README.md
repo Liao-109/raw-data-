@@ -35,7 +35,7 @@ The dataset supports the following analytical approaches (as used in the researc
 The dataset is available in raw data.xlsx for non-commercial research purposes. Users must comply with NAIS data usage regulations and cite the original research when using this data.
 ## Recommended Tools
 - Statistical analysis: Stata/MP 18.0 (for MNL model estimation).
-- Visualization: Python (Matplotlib, Seaborn) or R (ggplot2) for reproducing correlation heatmaps and SHAP plots.
+- Visualization: Python (Matplotlib, Seaborn) or MATLAB 2024a.
 - SHAP implementation: Python’s shap library (version ≥ 0.40.0).
 # Supplementary Materials
 - Correlation Heatmap.png: Visualizes pairwise correlations between variables (e.g., strong correlation between pedestrian age and fatal injuries).
