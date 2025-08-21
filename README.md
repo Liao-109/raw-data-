@@ -19,7 +19,7 @@ The dataset includes 1,320 valid collision records after data cleaning, with 17 
 ## Data Files
 - raw data.xlsx: Raw dataset with all variables and collision records.
 - Supplementary visualization materials (20250328)：Stata/MP 18.0.
-# Key Variables
+## Key Variables
 - Dependent Variable: Injury Severity	Categorized into 3 levels: Fatal (FI), Emergency/Hospitalization (SI), Minor Injuries (MI).
 - Human Factors： Pedestrian Age, Driving Experience, Speeding	Continuous/discrete variables capturing demographic and behavioral traits.
 - Road Environment: Pavement Material, Road Alignment, Surface Condition	Categorical variables describing road infrastructure and operating conditions.
